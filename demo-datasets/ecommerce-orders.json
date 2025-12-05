@@ -1,0 +1,114 @@
+[
+  {
+    "OrderDate": "2024-01-05",
+    "Category": "Electronics",
+    "OrderValue": 450,
+    "Quantity": 2,
+    "CustomerType": "Premium",
+    "ShippingDays": 3
+  },
+  {
+    "OrderDate": "2024-01-08",
+    "Category": "Clothing",
+    "OrderValue": 120,
+    "Quantity": 4,
+    "CustomerType": "Regular",
+    "ShippingDays": 5
+  },
+  {
+    "OrderDate": "2024-01-12",
+    "Category": "Books",
+    "OrderValue": 85,
+    "Quantity": 6,
+    "CustomerType": "Regular",
+    "ShippingDays": 4
+  },
+  {
+    "OrderDate": "2024-01-18",
+    "Category": "Electronics",
+    "OrderValue": 890,
+    "Quantity": 1,
+    "CustomerType": "Premium",
+    "ShippingDays": 2
+  },
+  {
+    "OrderDate": "2024-01-22",
+    "Category": "Home & Garden",
+    "OrderValue": 320,
+    "Quantity": 3,
+    "CustomerType": "Regular",
+    "ShippingDays": 6
+  },
+  {
+    "OrderDate": "2024-02-03",
+    "Category": "Clothing",
+    "OrderValue": 215,
+    "Quantity": 5,
+    "CustomerType": "Premium",
+    "ShippingDays": 3
+  },
+  {
+    "OrderDate": "2024-02-09",
+    "Category": "Electronics",
+    "OrderValue": 680,
+    "Quantity": 2,
+    "CustomerType": "Premium",
+    "ShippingDays": 2
+  },
+  {
+    "OrderDate": "2024-02-15",
+    "Category": "Books",
+    "OrderValue": 95,
+    "Quantity": 7,
+    "CustomerType": "Regular",
+    "ShippingDays": 5
+  },
+  {
+    "OrderDate": "2024-02-20",
+    "Category": "Home & Garden",
+    "OrderValue": 410,
+    "Quantity": 4,
+    "CustomerType": "Premium",
+    "ShippingDays": 3
+  },
+  {
+    "OrderDate": "2024-02-25",
+    "Category": "Clothing",
+    "OrderValue": 180,
+    "Quantity": 3,
+    "CustomerType": "Regular",
+    "ShippingDays": 4
+  },
+  {
+    "OrderDate": "2024-03-05",
+    "Category": "Electronics",
+    "OrderValue": 1200,
+    "Quantity": 1,
+    "CustomerType": "Premium",
+    "ShippingDays": 1
+  },
+  {
+    "OrderDate": "2024-03-12",
+    "Category": "Books",
+    "OrderValue": 110,
+    "Quantity": 8,
+    "CustomerType": "Regular",
+    "ShippingDays": 5
+  },
+  {
+    "OrderDate": "2024-03-18",
+    "Category": "Home & Garden",
+    "OrderValue": 560,
+    "Quantity": 5,
+    "CustomerType": "Premium",
+    "ShippingDays": 2
+  },
+  {
+    "OrderDate": "2024-03-25",
+    "Category": "Clothing",
+    "OrderValue": 290,
+    "Quantity": 6,
+    "CustomerType": "Premium",
+    "ShippingDays": 3
+  }
+]

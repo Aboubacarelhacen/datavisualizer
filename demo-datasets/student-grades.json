@@ -1,0 +1,83 @@
+[
+  {
+    "Student": "Emma Wilson",
+    "Grade": 10,
+    "Math": 92,
+    "Science": 88,
+    "English": 95,
+    "History": 90,
+    "AttendanceRate": 98
+  },
+  {
+    "Student": "Liam Chen",
+    "Grade": 10,
+    "Math": 88,
+    "Science": 92,
+    "English": 85,
+    "History": 87,
+    "AttendanceRate": 95
+  },
+  {
+    "Student": "Olivia Martinez",
+    "Grade": 10,
+    "Math": 95,
+    "Science": 90,
+    "English": 92,
+    "History": 93,
+    "AttendanceRate": 97
+  },
+  {
+    "Student": "Noah Johnson",
+    "Grade": 11,
+    "Math": 78,
+    "Science": 82,
+    "English": 88,
+    "History": 85,
+    "AttendanceRate": 92
+  },
+  {
+    "Student": "Sophia Lee",
+    "Grade": 11,
+    "Math": 90,
+    "Science": 94,
+    "English": 89,
+    "History": 91,
+    "AttendanceRate": 96
+  },
+  {
+    "Student": "Ethan Brown",
+    "Grade": 11,
+    "Math": 85,
+    "Science": 87,
+    "English": 84,
+    "History": 86,
+    "AttendanceRate": 94
+  },
+  {
+    "Student": "Ava Davis",
+    "Grade": 12,
+    "Math": 93,
+    "Science": 91,
+    "English": 96,
+    "History": 94,
+    "AttendanceRate": 99
+  },
+  {
+    "Student": "Mason Garcia",
+    "Grade": 12,
+    "Math": 87,
+    "Science": 89,
+    "English": 90,
+    "History": 88,
+    "AttendanceRate": 95
+  },
+  {
+    "Student": "Isabella Rodriguez",
+    "Grade": 12,
+    "Math": 91,
+    "Science": 93,
+    "English": 87,
+    "History": 92,
+    "AttendanceRate": 98
+  }
+]

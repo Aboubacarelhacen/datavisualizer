@@ -1,0 +1,44 @@
+/* Additional app-specific styles */
+
+/* Gradient radial backgrounds */
+.bg-gradient-radial {
+  background: radial-gradient(ellipse at center, var(--tw-gradient-stops));
+}
+
+/* Smooth scroll for the whole page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom selection color */
+::selection {
+  background: hsl(var(--aurora-cyan) / 0.3);
+  color: hsl(var(--foreground));
+}
+
+/* Focus outline for accessibility */
+*:focus-visible {
+  outline: 2px solid hsl(var(--aurora-cyan));
+  outline-offset: 2px;
+}
+
+/* Vega tooltip styling */
+#vg-tooltip-element {
+  font-family: 'Inter', sans-serif !important;
+  background: hsl(var(--card)) !important;
+  border: 1px solid hsl(var(--border)) !important;
+  border-radius: 8px !important;
+  padding: 8px 12px !important;
+  box-shadow: 0 8px 32px hsl(0 0% 0% / 0.4) !important;
+  color: hsl(var(--foreground)) !important;
+  font-size: 12px !important;
+}
+
+#vg-tooltip-element .key {
+  color: hsl(var(--muted-foreground)) !important;
+}
+
+#vg-tooltip-element .value {
+  color: hsl(var(--aurora-cyan)) !important;
+  font-weight: 500 !important;
+}
