@@ -1,22 +1,21 @@
-# Welcome to your Lovable project
+# Aurora Vibe Charts
 
-## Project info
+A modern data visualization web application that transforms your data into beautiful interactive charts with natural language commands.
 
-**URL**: https://lovable.dev/projects/0ce6bf48-1479-40d3-ad8f-2cc849a539bd
+## Features
 
-## How can I edit this code?
+- 📊 Smart chart recommendations based on your data
+- 🗣️ Natural language chart generation (English & Turkish)
+- 🖼️ Image-based chart matching
+- 📁 Support for CSV, Excel, and JSON files
+- 🎨 Beautiful aurora-themed UI
+- 📈 14+ chart types with Vega-Lite
 
-There are several ways of editing your application.
+## Getting Started
 
-**Use Lovable**
+**Local Development**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0ce6bf48-1479-40d3-ad8f-2cc849a539bd) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Clone this repository and install dependencies:
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -59,15 +58,18 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- Vega-Lite
 
-## How can I deploy this project?
+## How to Deploy
 
-Simply open [Lovable](https://lovable.dev/projects/0ce6bf48-1479-40d3-ad8f-2cc849a539bd) and click on Share -> Publish.
+Build the project for production:
 
-## Can I connect a custom domain to my Lovable project?
+```sh
+npm run build
+```
 
-Yes, you can!
+Deploy the `dist` folder to your hosting platform (Vercel, Netlify, etc.)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## License
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+MIT
